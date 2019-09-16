@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaWebBulma:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWebBulma_war_exploded.war</output-path>
+    <root id="archive" name="JavaWebBulma_war.war">
+      <element id="javaee-facet-resources" facet="JavaWebBulma/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWebBulma" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
